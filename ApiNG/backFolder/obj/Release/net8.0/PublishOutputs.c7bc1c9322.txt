@@ -1,0 +1,7 @@
+E:\Treino\Docker\ApiNG\backFolder\bin\Release\net8.0\publish\back.exe
+E:\Treino\Docker\ApiNG\backFolder\bin\Release\net8.0\publish\appsettings.Development.json
+E:\Treino\Docker\ApiNG\backFolder\bin\Release\net8.0\publish\appsettings.json
+E:\Treino\Docker\ApiNG\backFolder\bin\Release\net8.0\publish\back.dll
+E:\Treino\Docker\ApiNG\backFolder\bin\Release\net8.0\publish\back.deps.json
+E:\Treino\Docker\ApiNG\backFolder\bin\Release\net8.0\publish\back.runtimeconfig.json
+E:\Treino\Docker\ApiNG\backFolder\bin\Release\net8.0\publish\back.pdb
